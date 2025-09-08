@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on thumbnail creation<br>🤝 I’m looking for help with Developers<br>🌱 I’m currently learning python<br>⚡ Fun fact 
-
+🔭 I’m currently working on thumbnail creation<br>🤝 I’m looking for help with Developers<br>🌱 I’m currently learning python<br>⚡ Reach out me at sanx0064@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjay M) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sanx0064) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanx0064@gmail.com) 
